@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rshdd/Sentinel/static/css/main.1fe03911.css",
-    "main.js": "/rshdd/Sentinel/static/js/main.69a4def6.js",
-    "static/js/453.7c401dc1.chunk.js": "/rshdd/Sentinel/static/js/453.7c401dc1.chunk.js",
-    "index.html": "/rshdd/Sentinel/index.html",
-    "main.1fe03911.css.map": "/rshdd/Sentinel/static/css/main.1fe03911.css.map",
-    "main.69a4def6.js.map": "/rshdd/Sentinel/static/js/main.69a4def6.js.map",
-    "453.7c401dc1.chunk.js.map": "/rshdd/Sentinel/static/js/453.7c401dc1.chunk.js.map"
+    "main.css": "/Sentinel/static/css/main.1fe03911.css",
+    "main.js": "/Sentinel/static/js/main.f2493e1e.js",
+    "static/js/453.7c401dc1.chunk.js": "/Sentinel/static/js/453.7c401dc1.chunk.js",
+    "index.html": "/Sentinel/index.html",
+    "main.1fe03911.css.map": "/Sentinel/static/css/main.1fe03911.css.map",
+    "main.f2493e1e.js.map": "/Sentinel/static/js/main.f2493e1e.js.map",
+    "453.7c401dc1.chunk.js.map": "/Sentinel/static/js/453.7c401dc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe03911.css",
-    "static/js/main.69a4def6.js"
+    "static/js/main.f2493e1e.js"
   ]
 }
