@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rshdd/Sentinel/Form/static/css/main.1fe03911.css",
-    "main.js": "/rshdd/Sentinel/Form/static/js/main.45291b5d.js",
-    "static/js/453.7c401dc1.chunk.js": "/rshdd/Sentinel/Form/static/js/453.7c401dc1.chunk.js",
-    "index.html": "/rshdd/Sentinel/Form/index.html",
-    "main.1fe03911.css.map": "/rshdd/Sentinel/Form/static/css/main.1fe03911.css.map",
-    "main.45291b5d.js.map": "/rshdd/Sentinel/Form/static/js/main.45291b5d.js.map",
-    "453.7c401dc1.chunk.js.map": "/rshdd/Sentinel/Form/static/js/453.7c401dc1.chunk.js.map"
+    "main.css": "/rshdd/Sentinel/static/css/main.1fe03911.css",
+    "main.js": "/rshdd/Sentinel/static/js/main.69a4def6.js",
+    "static/js/453.7c401dc1.chunk.js": "/rshdd/Sentinel/static/js/453.7c401dc1.chunk.js",
+    "index.html": "/rshdd/Sentinel/index.html",
+    "main.1fe03911.css.map": "/rshdd/Sentinel/static/css/main.1fe03911.css.map",
+    "main.69a4def6.js.map": "/rshdd/Sentinel/static/js/main.69a4def6.js.map",
+    "453.7c401dc1.chunk.js.map": "/rshdd/Sentinel/static/js/453.7c401dc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe03911.css",
-    "static/js/main.45291b5d.js"
+    "static/js/main.69a4def6.js"
   ]
 }
