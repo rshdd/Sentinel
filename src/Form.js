@@ -71,7 +71,7 @@ const TechSupportForm = () => {
 
     switch (issueReason) {
       case "Cerby Managed Email/Phone Not Managed":
-        issueMessage = `Essentially, the code was not sent to Cerby and the automation can't complete the 2FA challenge.
+        issueMessage = `Essentially, the code was not sent to Cerby, and the automation couldn't complete the 2FA challenge.
 
 For this, we recommend creating a Cerby-managed email/phone. This way, the automation can fill in the confirmation code on your behalf. You can find more details in the following documentation: https://help.cerby.com/en/articles/6393770-video-how-to-add-a-cerby-managed-email-or-phone-number-to-your-account`;
         break;
