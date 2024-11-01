@@ -251,9 +251,6 @@ Other information:
                   placeholder="Enter Workspace / Will be fetched from API"
                   {...register("workSpace", { required: true })}
                 />
-                {errors.workSpace && (
-                  <p className="text-danger">Workspace is required</p>
-                )}
               </Form.Group>
 
               <Form.Group className="mb-3 text-start" controlId="provider">
@@ -263,6 +260,9 @@ Other information:
                   placeholder="Enter Application Provider"
                   {...register("provider", { required: true })}
                 />
+                {errors.issueReason && (
+                  <p className="text-danger">Please write the provider</p>
+                )}
               </Form.Group>
 
               <Form.Group className="mb-3 text-start" controlId="userFirstName">
@@ -376,7 +376,7 @@ Other information:
               <h5 className="text-center">Recommended Message 📨</h5>
               <textarea
                 className="form-control"
-                rows={23}
+                rows={28}
                 value={message}
                 readOnly={!isEditable}
                 style={{ resize: "none" }}
