@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Sentinel/static/css/main.1fe03911.css",
-    "main.js": "/Sentinel/static/js/main.e3ae4dcf.js",
+    "main.js": "/Sentinel/static/js/main.da949504.js",
     "static/js/453.7c401dc1.chunk.js": "/Sentinel/static/js/453.7c401dc1.chunk.js",
     "index.html": "/Sentinel/index.html",
     "main.1fe03911.css.map": "/Sentinel/static/css/main.1fe03911.css.map",
-    "main.e3ae4dcf.js.map": "/Sentinel/static/js/main.e3ae4dcf.js.map",
+    "main.da949504.js.map": "/Sentinel/static/js/main.da949504.js.map",
     "453.7c401dc1.chunk.js.map": "/Sentinel/static/js/453.7c401dc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe03911.css",
-    "static/js/main.e3ae4dcf.js"
+    "static/js/main.da949504.js"
   ]
 }
